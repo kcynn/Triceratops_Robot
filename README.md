@@ -9,7 +9,7 @@ The design and functionality of the Triceratops Robot are intended not only for 
 ## How to build Triceratops Robot
 For building a Triceratops robot, it is divided into three parts. The first part is Mechanics, the second part is Electronics, and the third part is Coding.
 ### Mechanic
-Enter the **Triceratops_Mechanic** folder and perform 3D printing or laser cutting. Then, assemble the parts into the robot as shown in the image below.
+**Triceratops_Mechanic** folder, download all the files in the folder, and then perform 3D printing or laser cutting as appropriate. After that, assemble the parts into a robot according to the image below.
 
 ![Assem_Triceratops](https://github.com/kcynn/Triceratops-Robot/assets/154345247/e860123a-ac1d-4964-b252-cbd763943b91)
 ![Assem_Triceratops_Back](https://github.com/kcynn/Triceratops-Robot/assets/154345247/14602e66-f8ba-4bd8-b64e-f060c3ba7fbb)
@@ -37,7 +37,7 @@ In the Electronics section, we will discuss various electronic components used, 
 7. Finally, you will find the robot's code in the **Triceratops_coding** folder. Open the **Control_Robot.ino** file to access it.
    
 ## Steps to run the code
-1. Upload the **Control_Robot.ino** code to the Arduino R4 board.
+1. Check if the circuit is connected correctly and then Upload the **Control_Robot.ino** code to the Arduino R4 board.
 2. Check if the Arduino R4 board is connected to Wi-Fi.
 3. Then, run the **GuiControl.py** code.
 4. Click on the commands on the GUI screen to instruct the robot to perform tasks.
