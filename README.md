@@ -15,6 +15,7 @@ For building a Triceratops robot, it is divided into three parts. The first part
 ![Assem_Triceratops1](https://github.com/kcynn/Triceratops_Robot/assets/154345247/72210203-5a7f-423d-af0c-62cd13177352)
 ![Assem_Triceratops_Back_1](https://github.com/kcynn/Triceratops_Robot/assets/154345247/63c9ebc7-d37d-4271-b644-25928c410073)
 ![Assem_Triceratops_Right](https://github.com/kcynn/Triceratops_Robot/assets/154345247/bd503772-d9b2-40c0-811d-abae9ec6e871)
+![Assem_Triceratops_Left_1](https://github.com/kcynn/Triceratops_Robot/assets/154345247/d141b92f-0bc4-4be3-b5f5-721bd22343c7)
 ![Assem_Triceratops_Top](https://github.com/kcynn/Triceratops_Robot/assets/154345247/1421436f-6b75-40e7-9c9b-7734695422d8)
 
 
