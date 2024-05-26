@@ -21,9 +21,9 @@ For building a Triceratops robot, it is divided into three parts. The first part
 
 ### Electronics
 In the Electronics section, we will discuss various electronic components used, including circuit diagrams.
-![Hardware](https://github.com/kcynn/Triceratops-Robot/assets/154345247/c83674f9-aa1c-4b56-9ac9-a466ae43332f)
+![Hardware](https://github.com/kcynn/Triceratops_Robot/assets/154345247/306aaa94-fb09-4253-b889-6abf3f900e1d)
 **Circuit Diagrams**
-![Circuit Diagram](https://github.com/kcynn/Triceratops-Robot/assets/154345247/74768352-ca98-4eb2-ba59-f876aa3eb35e)
+![Circuit Diagram](https://github.com/kcynn/Triceratops_Robot/assets/154345247/0810fe10-3b97-4a28-952d-ced20f444ec0)
 
 ### Coding
 1. Start by downloading the Coppelia Sim EDU program to set the servo ID. You can download the program from this link 
