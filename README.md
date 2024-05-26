@@ -11,12 +11,12 @@ For building a Triceratops robot, it is divided into three parts. The first part
 ### Mechanic
 **Triceratops_Mechanic** folder, download all the files in the folder, and then perform 3D printing or laser cutting as appropriate. After that, assemble the parts into a robot according to the image below.
 
-![Assem_Triceratops](https://github.com/kcynn/Triceratops-Robot/assets/154345247/e860123a-ac1d-4964-b252-cbd763943b91)
-![Assem_Triceratops_Back](https://github.com/kcynn/Triceratops-Robot/assets/154345247/14602e66-f8ba-4bd8-b64e-f060c3ba7fbb)
-![Assem_Triceratops_Left](https://github.com/kcynn/Triceratops-Robot/assets/154345247/970fc20b-5ccf-4c66-a5b0-0ce9ad3976f9)
-![Assem_Triceratops_Right](https://github.com/kcynn/Triceratops-Robot/assets/154345247/59bcede5-a343-42cc-b00f-6c5bcc7f1168)
-![Assem_Triceratops_Top](https://github.com/kcynn/Triceratops-Robot/assets/154345247/468e26b1-465d-4b2d-8b77-3d083101987e)
-![Assem_Triceratops1](https://github.com/kcynn/Triceratops-Robot/assets/154345247/3d3ff8e0-3c7b-4041-93e2-2f688b468ec9)
+![Assem_Triceratops](https://github.com/kcynn/Triceratops_Robot/assets/154345247/062f2366-baf3-4898-bc26-cc6149fac485)
+![Assem_Triceratops1](https://github.com/kcynn/Triceratops_Robot/assets/154345247/72210203-5a7f-423d-af0c-62cd13177352)
+![Assem_Triceratops_Back_1](https://github.com/kcynn/Triceratops_Robot/assets/154345247/63c9ebc7-d37d-4271-b644-25928c410073)
+![Assem_Triceratops_Right](https://github.com/kcynn/Triceratops_Robot/assets/154345247/bd503772-d9b2-40c0-811d-abae9ec6e871)
+![Assem_Triceratops_Top](https://github.com/kcynn/Triceratops_Robot/assets/154345247/1421436f-6b75-40e7-9c9b-7734695422d8)
+
 
 ### Electronics
 In the Electronics section, we will discuss various electronic components used, including circuit diagrams.
@@ -31,7 +31,7 @@ In the Electronics section, we will discuss various electronic components used, 
 2. Afterwards, proceed to assign servo IDs using the Coppelia Sim EDU program as demonstrated in this video link. [Assign servo IDs](https://youtu.be/GX-KO-Zlhtw?si=XaPr_eEYJO_c3Mkw)
 3. Then, proceed to set all servos to 0 degrees. Access the **Triceratops_coding** folder, open the **SetZeroMotor.ino** file, adjust the IDs correctly, and run the SetZeroMotor code. Once completed, Servo 0 degrees should align as depicted in the image.
 
-    ![Servo0Degree](https://github.com/kcynn/Triceratops-Robot/assets/154345247/bca507c4-22e9-4424-90d7-b6270cd65639)
+    ![Servo0Degree](https://github.com/kcynn/Triceratops_Robot/assets/154345247/0c98b376-2989-42b4-acc5-64a9133bf184)
 5. Next, download the **Triceratops sound.mp3** audio file (.MP3) and insert it into the micro SD card.
 6. The next step is to create a GUI window to control the robot's actions. Navigate to the **Triceratops_coding** folder and open the **GuiControl.py** file.
 7. Finally, you will find the robot's code in the **Triceratops_coding** folder. Open the **Control_Robot.ino** file to access it.
